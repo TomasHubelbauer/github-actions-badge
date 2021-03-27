@@ -1,7 +1,5 @@
 # GitHub Actions Badge
 
-[***WEB**](https://tomashubelbauer.github.io/github-actions-badge)
-
 Use this MarkDown snippet to add a GitHub Actions status badge to your repo's readme:
 
 ```markdown
